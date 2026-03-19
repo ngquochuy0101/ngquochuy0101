@@ -1,4 +1,4 @@
-# Hi there, I'm [Nguyen Huy] 👋
+# Hi there, I'm Nguyen Huy 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Final-Year+AI+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer" alt="Typing SVG" />
@@ -38,6 +38,6 @@ I am a final-year Artificial Intelligence major with a strong foundation in Mach
 
 ### 📫 Let's Connect!
 * **Email:** [ngquochuy4002@gmail.com](mailto:ngquochuy4002@gmail.com)
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/ngquochuy0101)
+* **LinkedIn:** [linkedin.com/in/ngquochuy0101](https://linkedin.com/in/ngquochuy0101)
 
 > *"The best way to predict the future is to invent it."*
