@@ -23,5 +23,3 @@
 ### 📫 Let's Connect!
 * **Email:** [ngquochuy4002@gmail.com](mailto:ngquochuy4002@gmail.com)
 * **LinkedIn:** [linkedin.com/in/ngquochuy0101](https://linkedin.com/in/ngquochuy0101)
-
-> *"The best way to predict the future is to invent it."*
