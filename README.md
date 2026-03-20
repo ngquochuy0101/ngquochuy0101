@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Huy 👋
+# Hi there, I'm Nguyễn Quốc Huy 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Final-Year+AI+Student;Machine+Learning+Enthusiast;Deep+Learning+Explorer" alt="Typing SVG" />
